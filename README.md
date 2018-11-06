@@ -1,2 +1,2 @@
 # documentation-hexo-example
-A example of documentation page with expo
+An example of documentation page with expo
